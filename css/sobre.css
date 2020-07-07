@@ -1,0 +1,51 @@
+
+.sobre {
+  background: #FC427B;
+  display: grid;
+  place-items: center;
+}
+
+.sobre__wrapper {
+  display: grid;
+  place-items: center;
+  gap: 1em;
+
+  max-width: 540px;
+  margin: auto;
+}
+
+.sobre__logotipo {
+  display: grid;
+  grid-template-columns: auto 1fr;
+}
+
+.sobre__logotipo .logo {
+  font-size: 8.75em;
+  color: #182C61;
+}
+
+.sobre__logotipo .logo::before, .logo::after {
+  color: #3B3B98;
+}
+
+.sobre__logotipo .logo::before {
+  content: '{';
+}
+
+.sobre__logotipo .logo::after {
+  content: '}';
+}
+
+.sobre__logotipo .titulo {
+  color: #FFF;
+  font-size: 5em;
+  font-weight: 400;
+  line-height: 100px;
+}
+
+
+.sobre__destaque {
+  font-size: 2em;
+  text-align: center;
+  font-weight: 700;
+}
