@@ -16,7 +16,7 @@
 
 * Twitter: [@cabral\_ton](https://twitter.com/cabral\_ton)
 * Github: [@toncabral](https://github.com/toncabral)
-* LinkedIn: [@Ton Cabral](https://linkedin.com/in/Ton Cabral)
+* LinkedIn: [@Ton Cabral](https://linkedin.com/in/ton-cabral-541b503a)
 
 ## Show your support
 
